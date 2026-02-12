@@ -1,1 +1,63 @@
-.venv
+# Virtual Environment
+.venv/
+.venv312/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Dataset (archivos grandes)
+dataset/
+*.jpg
+*.png
+*.jpeg
+*.dcm
+*.dicom
+
+# Modelos entrenados
+*.h5
+*.keras
+*.pb
+*.ckpt
+*.weights
+models/
+checkpoints/
+
+# Logs y resultados
+logs/
+*.log
+tensorboard/
+results/
+
+# Archivos temporales
+*.csv
+*_temp.csv
+train_temp.csv
+val_temp.csv
+test_temp.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Otros
+*.bak
+*.tmp
