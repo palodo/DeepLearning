@@ -101,16 +101,19 @@ Se recomienda evaluar con:
 ### 🔬 Trabajos Relevantes
 
 **Benamara et al. (2025)**  
-VGG16, MobileNetV2 y ResNet50 Fine-Tuned  
-Accuracy: 99.54%  
+Model: Multi-level Fine-Tuning of VGG16, MobileNetV2, and ResNet50  
+Reported Accuracy: 99.54%  
+https://link.springer.com/article/10.1007/s13721-025-00590-6  
 
 **Giri et al. (2025)**  
-CNN-LSTM + Atención  
-Accuracy: 99.67%  
+Model: CNN-LSTM with Attention Mechanism  
+Reported Accuracy: 99.67%  
+https://link.springer.com/chapter/10.1007/978-3-031-82706-8_8  
 
 **Raza et al. (2023)**  
-EfficientNet-B1  
-Accuracy: 99.10%  
+Model: EfficientNet-B1 (Lung-EffNet)  
+Reported Accuracy: 99.10%  
+https://www.sciencedirect.com/science/article/pii/S0952197623010862  
 
 ---
 
@@ -183,16 +186,19 @@ Recommended evaluation metrics:
 ### 🔬 Relevant Works
 
 **Benamara et al. (2025)**  
-Fine-Tuned VGG16, MobileNetV2, ResNet50  
-Accuracy: 99.54%  
+Model: Multi-level Fine-Tuning of VGG16, MobileNetV2, and ResNet50  
+Reported Accuracy: 99.54%  
+https://link.springer.com/article/10.1007/s13721-025-00590-6  
 
 **Giri et al. (2025)**  
-CNN-LSTM + Attention  
-Accuracy: 99.67%  
+Model: CNN-LSTM with Attention Mechanism  
+Reported Accuracy: 99.67%  
+https://link.springer.com/chapter/10.1007/978-3-031-82706-8_8  
 
 **Raza et al. (2023)**  
-EfficientNet-B1  
-Accuracy: 99.10%  
+Model: EfficientNet-B1 (Lung-EffNet)  
+Reported Accuracy: 99.10%  
+https://www.sciencedirect.com/science/article/pii/S0952197623010862  
 
 ---
 
