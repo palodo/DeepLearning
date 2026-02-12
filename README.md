@@ -159,23 +159,5 @@ https://www.sciencedirect.com/science/article/pii/S0952197623010862
 | Benamara et al. (2025) | VGG16 Fine-Tuned Multinivel         | 99.54%       | Transfer Learning |
 | Raza et al. (2023)     | EfficientNet-B1                     | 99.10%       | Transfer Learning |
 
----
 
-# 📉 Limitaciones
-
-- Dataset de tamaño reducido (~1.100 imágenes etiquetadas).
-- Desbalance notable de clases (Benign subrepresentada).
-- Conjunto `test/` sin etiquetas explícitas.
-- Posible riesgo de sobreajuste debido a la cantidad limitada de datos.
-- Los resultados reportados en la literatura (>99%) deben analizarse críticamente dado el tamaño del dataset.
-
----
-
-# 🚀 Conclusión
-
-El IQ-OTH/NCCD se ha convertido en un benchmark frecuente en clasificación automática de cáncer de pulmón mediante Deep Learning.
-
-Sin embargo, debido a su tamaño limitado y al desbalance de clases, es fundamental aplicar una metodología rigurosa y evaluar el modelo utilizando métricas adecuadas que reflejen el rendimiento real en todas las clases.
-
-Este proyecto busca proporcionar una implementación reproducible y una evaluación realista del problema de clasificación multiclase en imágenes CT pulmonares.
 
